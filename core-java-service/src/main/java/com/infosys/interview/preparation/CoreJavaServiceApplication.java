@@ -1,4 +1,4 @@
-package com.infosys.interview.preperation;
+package com.infosys.interview.preparation;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
